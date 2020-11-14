@@ -1,0 +1,5 @@
+typescript: true
+hook: true
+
+migrationDir: dist/migration
+migrationMakeDir: src/migration
